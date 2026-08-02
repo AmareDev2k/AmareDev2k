@@ -42,7 +42,7 @@
 - 🌱 &nbsp;Learning modern frameworks and best practices in development
 - 💡 &nbsp;Passionate about open-source contributions and collaborative projects
 - 🎨 &nbsp;Creative developer with experience in design tools (Figma, Photoshop, Blender)
-- 🏢 &nbsp;Working at **[Catalyst Software]([https://kreedx.com/](https://catalystsoftware.lk/))**
+- 🏢 &nbsp;Working at **[Catalyst Software](https://catalystsoftware.lk/)**
 - 📫 &nbsp;Always open to exciting opportunities and new connections!
 
 ---
