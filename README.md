@@ -73,17 +73,16 @@
 ```js
 const aravinda = {
   languages:   ["Java", "JavaScript", "PHP", "Python", "HTML", "CSS", "Markdown", "PowerShell"],
-  frontend:    ["Angular", "AngularJS", ".NET", "Thymeleaf", "Bootstrap 5"],
+  frontend:    ["Angular", "AngularJS", "React", "Thymeleaf", "Bootstrap 5"],
   mobile:      ["Flutter"],
-  backend:     ["Spring Boot", "Spring MVC", "Apache Maven"],
-  databases:   ["MySQL", "Amazon DynamoDB"],
-  design:      ["Figma", "Canva", "Blender", "Adobe Photoshop", "Illustrator", "After Effects", "Lightroom"],
-  currentlyWorkingOn: ["Full Stack Web Apps", "Flutter Mobile Projects", "Java Spring APIs"]
+  backend:     ["Spring Boot", "Spring MVC", "Apache Maven", "Django"],
+  databases:   ["MySQL", "PostgreSQL"],
+  design:      ["Figma", "Canva", "Blender", "Adobe Photoshop", "Illustrator", "After Effects", "Lightroom"]
 };
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,python,html,css,angular,flutter,spring,dotnet,figma,blender,mysql,dynamodb,ps&theme=dark" alt="Skill Icons"/>
+  <img src="https://skillicons.dev/icons?i=java,js,php,python,html,css,angular,docker,spring,django,figma,blender,mysql,postgres,ps&theme=dark" alt="Skill Icons"/>
 </p>
 
 ---
