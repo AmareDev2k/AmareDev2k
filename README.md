@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Aravinda%20Amarasingha&fontSize=40&fontColor=ffffff&animation=fadeIn&section=header&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Aravinda%20Amarasingha&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder%20|%20Open%20Source%20Enthusiast&descAlignY=54"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
