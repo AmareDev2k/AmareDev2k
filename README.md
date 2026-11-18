@@ -14,7 +14,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=A855F7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Flutter+%26+Angular+Builder;Creative+Coder+%7C+Designer+%7C+Maker;Always+Building%2C+Always+Learning" alt="Typing SVG" />
   </a>
-</p>
+</p>.
 
 <!-- ═══════════════════════════════════════════════════════════════
      📊 PROFILE STATS BADGES
